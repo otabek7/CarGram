@@ -29,10 +29,6 @@ CarGram is a vibrant web platform for car enthusiasts to share their builds, mod
 - `client/src/components/` – React components (Navbar, Footer, AboutUs, etc.)
 - `client/src/assets/` – Images and static assets
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 © 2025 CarGram. All rights reserved.
