@@ -1,4 +1,4 @@
-# CarGram
+<img src="cargram-logo.png" alt="CarGram Logo" >
 
 CarGram is a vibrant web platform for car enthusiasts to share their builds, modifications, and experiences. Our mission is to connect people passionate about cars, foster learning, and celebrate automotive creativity. Join CarGram to showcase your ride, get inspired, and make new friends!
 
