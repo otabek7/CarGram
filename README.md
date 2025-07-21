@@ -5,7 +5,6 @@ CarGram is a vibrant web platform for car enthusiasts to share their builds, mod
 [![Last Commit](https://img.shields.io/github/last-commit/otabek7/CarGram)](https://github.com/otabek7/CarGram/commits/main)
 [![Issues](https://img.shields.io/github/issues/otabek7/CarGram)](https://github.com/otabek7/CarGram/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/otabek7/CarGram)](https://github.com/otabek7/CarGram/pulls)
-[![License](https://img.shields.io/github/license/otabek7/CarGram)](./LICENSE)
 [![Repo Size](https://img.shields.io/github/repo-size/otabek7/CarGram)](https://github.com/otabek7/CarGram)
 
 ## Features
