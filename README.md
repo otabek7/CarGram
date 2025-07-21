@@ -2,6 +2,11 @@
 
 CarGram is a vibrant web platform for car enthusiasts to share their builds, modifications, and experiences. Our mission is to connect people passionate about cars, foster learning, and celebrate automotive creativity. Join CarGram to showcase your ride, get inspired, and make new friends!
 
+[![Last Commit](https://img.shields.io/github/last-commit/otabek7/CarGram)](https://github.com/otabek7/CarGram/commits/main)
+[![Issues](https://img.shields.io/github/issues/otabek7/CarGram)](https://github.com/otabek7/CarGram/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/otabek7/CarGram)](https://github.com/otabek7/CarGram/pulls)
+[![License](https://img.shields.io/github/license/otabek7/CarGram)](./LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/otabek7/CarGram)](https://github.com/otabek7/CarGram)
 
 ## Features
 
@@ -11,7 +16,7 @@ CarGram is a vibrant web platform for car enthusiasts to share their builds, mod
 
 ## Tech Stack
 
-- **Frontend:** [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+- **Frontend:** [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 - **Backend:** [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#) [![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](#)
 - **Routing:** [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
 - **Package Management:** [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
