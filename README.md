@@ -11,11 +11,12 @@ CarGram is a vibrant web platform for car enthusiasts to share their builds, mod
 
 ## Tech Stack
 
-- **Frontend:** React, Tailwind CSS
-- **Routing:** React Router
-- **Package Management:** npm
+- **Frontend:** [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+- **Backend:** [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#) [![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)](#)
+- **Routing:** [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
+- **Package Management:** [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 - **State Management:** React Context API
-- **Database:** MongoDB Atlas
+- **Database:** [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 - **Assets:** Custom images and logos
 
 ## Getting Started
